@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+//L1gsH2UDBzZYzSU4i+KMjZRBWwA+76MgNXSkFnNRALM2gqFiq3MonJ6PPLd1duanuwGkYgbhnm0UlTKvKzA==",
+  "dgSpecHash": "Xld9rkh2mgQRbSaCdZ57iBR4tqd0LRLW4YGYvd52dersfnHLJcwhbSywuTsu1jFp+I5J+dyscPpYfNZ42H8O1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\SpotShakerAPI\\SpotShakerAPI\\SpotShakerAPI.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\Documents\\SpotShakerApi\\SpotShakerAPI\\SpotShakerAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\google.protobuf\\3.6.1\\google.protobuf.3.6.1.nupkg.sha512",

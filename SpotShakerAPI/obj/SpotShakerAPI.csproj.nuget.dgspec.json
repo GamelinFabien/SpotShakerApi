@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\source\\repos\\SpotShakerAPI\\SpotShakerAPI\\SpotShakerAPI.csproj": {}
+    "C:\\Users\\ASUS\\Documents\\SpotShakerApi\\SpotShakerAPI\\SpotShakerAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\source\\repos\\SpotShakerAPI\\SpotShakerAPI\\SpotShakerAPI.csproj": {
+    "C:\\Users\\ASUS\\Documents\\SpotShakerApi\\SpotShakerAPI\\SpotShakerAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\SpotShakerAPI\\SpotShakerAPI\\SpotShakerAPI.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\SpotShakerApi\\SpotShakerAPI\\SpotShakerAPI.csproj",
         "projectName": "SpotShakerAPI",
-        "projectPath": "C:\\Users\\ASUS\\source\\repos\\SpotShakerAPI\\SpotShakerAPI\\SpotShakerAPI.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Documents\\SpotShakerApi\\SpotShakerAPI\\SpotShakerAPI.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\source\\repos\\SpotShakerAPI\\SpotShakerAPI\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Documents\\SpotShakerApi\\SpotShakerAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
